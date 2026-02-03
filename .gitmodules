@@ -4,3 +4,6 @@
 [submodule "base/osac-fulfillment-service"]
 	path = base/osac-fulfillment-service
 	url = https://github.com/innabox/fulfillment-service
+[submodule "base/osac-aap"]
+	path = base/osac-aap
+	url = https://github.com/osac-project/osac-aap.git
